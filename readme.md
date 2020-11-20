@@ -1,1 +1,1 @@
-![DEMO FILe] (https://github.com/minhbac333studyus/Pascalite-Program-v1.0/blob/master/PascaliteReadMe.gif)
+![DEMO FILe] (https://github.com/minhbac333studyus/Pascalite-Program-v1.0/blob/master/PascaliteReadMe.gif|width = 100)
