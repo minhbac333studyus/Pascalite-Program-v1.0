@@ -1,0 +1,9 @@
+program stage1no140;
+const a = 0; b = 3;
+var
+  sum: integer;
+begin
+  write(a,b);
+  sum := a + b;
+  write(sum);
+end.
