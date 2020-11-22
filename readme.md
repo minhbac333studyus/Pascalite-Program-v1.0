@@ -1,6 +1,6 @@
-Pascallite Program
-This program will catch all the syntax, sematic, lexical error in pascal file & convert to assembly file
-This program is used for educational purpose only.
+#Pascallite Program
+This program will catch all the syntax, sematic, lexical error in pascal file & convert to assembly file\
+This program is used for **educational purpose only**.
 
 Inspired from class CS 4301 - Angelo State University - Professor Mark Molt\
 
@@ -21,5 +21,5 @@ Add all of your .dat file  in the same folder that contain header file.\
 After run on visual, all of the work will be saved on my.lst and my.asm file \
 *Note: Use Visual Studio Code to read .lst and .asm file*\
 
-**Author**: Anh Minh Le
+**Author**: Anh Minh Le\
 **Partner**: Long Thanh Le
