@@ -9,7 +9,7 @@ Inspired from class CS 4301 - Angelo State University - Professor Mark Molt
 *Catch all types off error in pascal file*
 
 
-[](https://github.com/minhbac333studyus/Pascalite-Program-v1.0/blob/master/PascaliteReadMe.gif)
+[DEMO](https://github.com/minhbac333studyus/Pascalite-Program-v1.0/blob/master/PascaliteReadMe.gif)
 
 
 ### **Software require**: *[Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/)* (free version) and *[Visual Studio Code](https://code.visualstudio.com/download)*
