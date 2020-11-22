@@ -24,8 +24,8 @@ Inspired from class CS 4301 - Angelo State University - Professor Mark Molt
 ###### ⋅⋅⋅⋅**1.1.2** Go to Debugging -> change the command arguments into 101.dat 101.lst 101.asm.
 ##### ⋅⋅**1.2** Go to Project Property -> Configuration Properties -> C/C++ Preprocessor Definitions -> add "_CRT_SECURE_NO_WARNINGS" to avoid unsafe warning -- ctime function
 Change your 101.dat (raw pascal file) in the same folder that contain header file.\
-After run on VIsual Studio Community 2019, new converted files will be saved on **101.lst** and **101.asm** file \
+After run on Visual Studio Community 2019, new converted files will be saved on **101.lst** and **101.asm** file \
 *Note: Use Visual Studio Code to read .lst and .asm file*
 
-**Author**: Anh Minh Le\
-**Partner**: Long Thanh Le
+**Author**: [Anh Minh Le](https://www.linkedin.com/in/minh-anh-le-20b85419a/)\
+**Partner**: [Long Thanh Le](https://www.facebook.com/coldlwownwg/)
