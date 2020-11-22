@@ -9,7 +9,8 @@ Inspired from class CS 4301 - Angelo State University - Professor Mark Molt
 *Catch all types off error in pascal file*
 
 
-![PascaliteReadMe](https://user-images.githubusercontent.com/37564253/99896149-672f6880-2c53-11eb-9aa0-0044864a7d40.gif)
+![PascaliteReadMe](https://user-images.githubusercontent.com/37564253/99896231-44518400-2c54-11eb-9e39-f842c7ab1c97.gif)
+
 
 
 
