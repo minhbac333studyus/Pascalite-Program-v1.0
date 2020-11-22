@@ -8,7 +8,7 @@ Inspired from class CS 4301 - Angelo State University - Professor Mark Molt\
 *Print out all the value in table entry, saved in ASM file*\
 *Catch all types off error in pascal file*\
 
-**Software require**: *Visual Studio Community 2019<https://visualstudio.microsoft.com/vs/community/>* (free version) and *Visual Studio Code <https://code.visualstudio.com/download>*\
+**Software require**: *[Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/)* (free version) and *[Visual Studio Code](https://code.visualstudio.com/download)*\
 
 **How to set up in Visual**\
 
