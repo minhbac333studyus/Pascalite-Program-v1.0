@@ -1,9 +1,14 @@
-program stage1no140;
-const a = 0; b = 3;
+program start;
+const 
+a = true;
+b = not a;
+c = 4301;
 var
-  sum: integer;
+f,g: integer;
+i,j: integer;
+k: boolean;
 begin
-  write(a,b);
-  sum := a + b;
-  write(sum);
+write(c);
+k := c <> c;
+k := not k and not a;
 end.

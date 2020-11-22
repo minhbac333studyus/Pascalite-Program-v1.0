@@ -1,14 +1,18 @@
-STAGE0:  Anh Minh Le      Fri Nov 20 12:17:47 2020
+STAGE1:  Anh Minh Le      Sat Nov 21 20:58:45 2020
 
 LINE NO.              SOURCE STATEMENT
-
-    1|program stage1no140;
-    2|const a = 0; b = 3;
-    3|var
-    4|  sum: integer;
-    5|begin
-    6|  write(a,b);
-    7|  sum := a + b;
-    8|  write(sum);
-    9|end.
+    1|program start;
+    2|const 
+    3|a = true;
+    4|b = not a;
+    5|c = 4301;
+    6|var
+    7|f,g: integer;
+    8|i,j: integer;
+    9|k: boolean;
+   10|begin
+   11|write(c);
+   12|k := c <> c;
+   13|k := not k and not a;
+   14|end.
 COMPILATION TERMINATED      0 ERRORS ENCOUNTERED
