@@ -2,7 +2,7 @@
 This program will catch all the syntax, sematic, lexical error in pascal file & convert from pascal file to assembly file\
 This program is used for **educational purpose only**.
 
-Project from class CS 4301 - Angelo State University - Professor Mark Molt
+Project from class CS 4301 - Angelo State University - Professor Mark Molt (**author**)
 
 ## **Special Function**
 *Print out all the value in table entry, saved in ASM file*\
