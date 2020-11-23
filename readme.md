@@ -27,5 +27,5 @@ Change your 101.dat (raw pascal file) in the same folder that contain header fil
 After run on Visual Studio Community 2019, new converted files will be saved on **101.lst** and **101.asm** file \
 *Note: Use Visual Studio Code to read .lst and .asm file*
 
-**Author**: [Anh Minh Le](https://www.linkedin.com/in/minh-anh-le-20b85419a/)\
-**Partner**: [Long Thanh Le](https://www.facebook.com/coldlwownwg/)
+**Team**: [Anh Minh Le](https://www.linkedin.com/in/minh-anh-le-20b85419a/)\
+**Contributer**: [Long Thanh Le](https://www.facebook.com/coldlwownwg/)
