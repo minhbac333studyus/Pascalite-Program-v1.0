@@ -693,7 +693,7 @@ void Compiler::printTableLine(string exName, string inName, storeTypes dataType,
 }
 
 // Lexical routines
-//Huan version
+
 
 string Compiler::nextToken() //returns the next token or end of file marker
 {
